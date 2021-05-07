@@ -1,0 +1,4 @@
+Player:3:30.0
+AbstractJewel:Ruby:Red:2:false
+AbstractJewel:Diamond:Blue:3:true
+Hobgoblin:16.0:false:true:2
